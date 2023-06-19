@@ -72,7 +72,7 @@ class _RegisterPageState extends State<RegisterPage> {
             const SizedBox(height: 100),
             const Icon(Icons.lock, size: 120),
             const SizedBox(height: 50),
-            const Text('Welcome Back',
+            const Text('Register',
                 style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
             const SizedBox(height: 50),
             Padding(

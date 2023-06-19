@@ -1,4 +1,4 @@
-#Mon Jun 19 12:48:45 IST 2023
+#Mon Jun 19 16:05:30 IST 2023
 base.0=E\:\\Apps Flutter\\socio\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 base.1=E\:\\Apps Flutter\\socio\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 base.2=E\:\\Apps Flutter\\socio\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex

@@ -1,0 +1,19 @@
+com.example.socio.app-jetified-window-1.0.0-beta04-0 C:\Users\Raghav\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.socio.app-jetified-play-services-basement-18.1.0-1 C:\Users\Raghav\.gradle\caches\transforms-3\58aa1384bde170d075503b845cfcf44c\transformed\jetified-play-services-basement-18.1.0\res
+com.example.socio.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Raghav\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.socio.app-browser-1.4.0-3 C:\Users\Raghav\.gradle\caches\transforms-3\6d3bbaf4594b8ed85e4722883be764b3\transformed\browser-1.4.0\res
+com.example.socio.app-jetified-firebase-common-20.3.2-4 C:\Users\Raghav\.gradle\caches\transforms-3\6e10d488ebcc23afefc866560645fd3c\transformed\jetified-firebase-common-20.3.2\res
+com.example.socio.app-core-1.6.0-5 C:\Users\Raghav\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.socio.app-jetified-play-services-base-18.0.1-6 C:\Users\Raghav\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+com.example.socio.app-jetified-window-java-1.0.0-beta04-7 C:\Users\Raghav\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.socio.app-main-8 E:\Apps Flutter\socio\android\app\src\main\res
+com.example.socio.app-release-9 E:\Apps Flutter\socio\android\app\src\release\res
+com.example.socio.app-pngs-10 E:\Apps Flutter\socio\build\app\generated\res\pngs\release
+com.example.socio.app-resValues-11 E:\Apps Flutter\socio\build\app\generated\res\resValues\release
+com.example.socio.app-rs-12 E:\Apps Flutter\socio\build\app\generated\res\rs\release
+com.example.socio.app-mergeReleaseResources-13 E:\Apps Flutter\socio\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.socio.app-mergeReleaseResources-14 E:\Apps Flutter\socio\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.socio.app-merged_res-15 E:\Apps Flutter\socio\build\app\intermediates\merged_res\release
+com.example.socio.app-packaged_res-16 E:\Apps Flutter\socio\build\cloud_firestore\intermediates\packaged_res\release
+com.example.socio.app-packaged_res-17 E:\Apps Flutter\socio\build\firebase_auth\intermediates\packaged_res\release
+com.example.socio.app-packaged_res-18 E:\Apps Flutter\socio\build\firebase_core\intermediates\packaged_res\release
